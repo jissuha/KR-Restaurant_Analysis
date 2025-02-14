@@ -1,6 +1,5 @@
 # Korean Restaurant Sales Analysis & 2025 Growth Strategy
-
-
+<br><br>
 ## 1. Business Problem
 
 This project analyzes the performance of a **Korean franchise restaurant in Irvine, CA**, part of a globally recognized brand founded by **renowned chef Baek Jong-won**. With increasing international recognition through **Netflix** and other media, the restaurant has gained attention among Korean food enthusiasts in the U.S.
@@ -10,14 +9,14 @@ Despite an initially strong performance, sales have declined over the past four 
 A major competitive advantage is the restaurant’s **late-night operations(open until midnight on weekdays and 1 AM on weekends)**, making it the **only soju pub concept in Irvine**. This unique positioning offers opportunities to attract late-night customers and stand out in the market.
 
 Through **SQL-based data analysis and Tableau insights**, this project explores sales trends, evaluates performance gaps, and provides actionable strategies to optimize operations, enhance customer engagement, and drive sustainable growth.
-
+<br><br>
 ## 2. Data Overview
 
 The analysis utilizes two datasets:
 
 - Sales Data: Includes order details, total revenue, category breakdown, and time-based trends.
 - Item Sales Data: Contains sales performance by menu item, category, and order type(Dine-in, Takeout, Delivery).
-
+<br><br>
 ## 3. Key Analysis & Insights
 
 ### **3.1 2024 Overall Sales**
@@ -42,9 +41,8 @@ The analysis utilizes two datasets:
     - The revenue decline directly correlates with fewer transactions, confirming that lower customer volume was the primary driver.
 
 <img width="1200" alt="image" src="https://github.com/user-attachments/assets/918b019a-2eff-4978-8082-a45a8ea6f652" />
+<br><br> 
 
-        
-    
 - **Weekly Trends:**
     - Friday and Saturday contribute nearly 40% of total weekly sales, driven by late-night dining demand and group gatherings.
         - Friday: $375.6K / 75 tickets per day
@@ -56,7 +54,7 @@ The analysis utilizes two datasets:
     - This pattern is influenced by financial constraints, as consumers allocate more of their budget to weekend dining, while lower weekday demand, especially for late-night dining, further widens the gap.
         
 <img width="1200" alt="image" src="https://github.com/user-attachments/assets/7b7c23cb-5725-4131-9f2c-9644ca3c139a" />
-        
+<br><br>         
     
 - **Hourly Trends:**
     - 6 PM - 8 PM is the most profitable period, indicating a strong dinner rush with high customer traffic.
@@ -67,7 +65,7 @@ The analysis utilizes two datasets:
     - Optimizing peak-hour service efficiency and upselling strategies could maximize revenue. *(detailed recommendations in the next section)*
   
  <img width="1200" alt="image" src="https://github.com/user-attachments/assets/f72e990a-2bb6-4756-94d7-281314294cd6" />
-   
+<br><br>    
 
 ### **3.3 Dine-In vs. Delivery(inc. Takeout) Performance Analysis**
 
@@ -88,7 +86,7 @@ The analysis utilizes two datasets:
 
 <img width="346" alt="image" src="https://github.com/user-attachments/assets/88686e5d-df69-4461-bf78-e5d10379a040" /> | <img width="1200" alt="image" src="https://github.com/user-attachments/assets/7aa72dd5-389e-4b09-bf97-d7896ff807c0" />
 ---|---|
-
+<br><br> 
 
 
 ### 3.4 Order Type-Based Menu Performance Analysis
@@ -101,7 +99,7 @@ The analysis utilizes two datasets:
 - Top-selling items account for 46.01% of total revenue, while the bottom 10 items contribute just 0.006%, indicating the need to streamline the menu by removing or repackaging underperforming dishes.
 
 <img width="462" alt="image" src="https://github.com/user-attachments/assets/f0e663ea-592a-463e-ae2a-8b04c3071422" />
-
+<br><br> 
 
 ### Top 10 Best-Selling Items
 
@@ -131,7 +129,7 @@ The analysis utilizes two datasets:
 <img width="865" alt="image" src="https://github.com/user-attachments/assets/2a322b2c-6fc3-446c-8c79-dd3e8760be26" /> | <img width="870" alt="image" src="https://github.com/user-attachments/assets/f940f21d-8c80-4ce6-8712-04d774fff0ec" />
 --|--
 
-
+<br><br>
 ## **4. 2025 Growth Strategy & Business Recommendations**
 
 ### 4.1 Dine-In Optimization
@@ -165,7 +163,7 @@ With growing U.S. interest in Korean culture, food, and social drinking, leverag
 - Korean culture-themed promotions, such as "K-Pop Night" and "K-Drama Soju Pairing," can attract new customers, while social media challenges (e.g., "🔥 Spicy Dakbal Challenge") can increase organic engagement. Partnering with local influencers can also enhance brand awareness.
 
 -> Impact: These strategies can drive higher foot traffic, increased social media reach, and improved brand recognition among younger audiences.
-
+<br><br>
 ## **5. Conclusion**
 
 The analysis of the restaurant’s sales performance, customer behavior, and order trends highlights key areas for improvement and growth opportunities in 2025. The decline in sales over the past four months has been primarily driven by reduced dine-in traffic, seasonal fluctuations, and lower weekday engagement. However, with targeted, data-driven strategies, these challenges can be addressed to drive revenue recovery and long-term growth.
@@ -190,7 +188,7 @@ Key takeaways from this analysis include:
     
 
 By implementing these strategies, the restaurant can increase weekday traffic, maximize late-night sales, expand delivery revenue, and enhance brand visibility in 2025. The integration of SQL-based sales analysis and Tableau-driven visualizations ensures that these insights are backed by data, supporting informed business decisions.
-
+<br><br>
 ## 6. Next Steps:
 
 - Monitor and evaluate the impact of implemented strategies through continuous sales tracking.
