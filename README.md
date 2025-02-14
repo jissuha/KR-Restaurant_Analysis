@@ -98,7 +98,6 @@ The analysis utilizes two datasets:
 - Hanshin Dakbal, a signature dish that made the brand famous in Korea, continues to perform exceptionally well in the U.S. market, reinforcing its flagship status.
 - Pork Mozzarella Cheese Fondue, Kimchi Jeongol, and Fried Chicken varieties rank among the top food items, showing strong demand for flavorful, shareable dishes that complement alcohol consumption.
 
-![image.png](attachment:67751cd4-bfcd-48a8-b781-7b45a81129c0:image.png)
 
 ### Best-Selling Items by Order Type
 
@@ -118,9 +117,7 @@ The analysis utilizes two datasets:
 - Chicken-based dishes (e.g., Fried Whole Chicken, Yangnyeom Chicken) rank high in delivery sales, highlighting potential for expanding meal bundles optimized for takeout.
 - Alcohol sales in delivery & pick-up remain minimal due to legal restrictions and consumer behavior, reinforcing the dine-in exclusivity of beverage revenue.
 
-![image.png](attachment:44b9be64-6a90-483e-ba09-1ce513c4f9a5:image.png)
 
-![image.png](attachment:8d8f4c86-6770-40f3-ac67-958e82de8387:image.png)
 
 ## **4. 2025 Growth Strategy & Business Recommendations**
 
