@@ -41,7 +41,7 @@ The analysis utilizes two datasets:
     - Although sales slightly recovered after September, they remained below mid-year levels, reflecting lasting impacts from seasonal population shifts and changing consumer behavior.
     - The revenue decline directly correlates with fewer transactions, confirming that lower customer volume was the primary driver.
 
-<img width="1363" alt="image" src="https://github.com/user-attachments/assets/918b019a-2eff-4978-8082-a45a8ea6f652" />
+<img width="1200" alt="image" src="https://github.com/user-attachments/assets/918b019a-2eff-4978-8082-a45a8ea6f652" />
 
         
     
@@ -55,6 +55,7 @@ The analysis utilizes two datasets:
     - Average order value(AOV) remains relatively stable, peaking on Friday at $95.98 and dipping to $80.06 on Monday.
     - This pattern is influenced by financial constraints, as consumers allocate more of their budget to weekend dining, while lower weekday demand, especially for late-night dining, further widens the gap.
         
+<img width="1200" alt="image" src="https://github.com/user-attachments/assets/7b7c23cb-5725-4131-9f2c-9644ca3c139a" />
         
     
 - **Hourly Trends:**
@@ -65,7 +66,8 @@ The analysis utilizes two datasets:
     - Late-night sales could be improved through targeted promotions and menu strategies. *(detailed recommendations in the next section)*
     - Optimizing peak-hour service efficiency and upselling strategies could maximize revenue. *(detailed recommendations in the next section)*
   
-    
+ <img width="1200" alt="image" src="https://github.com/user-attachments/assets/f72e990a-2bb6-4756-94d7-281314294cd6" />
+   
 
 ### **3.3 Dine-In vs. Delivery(inc. Takeout) Performance Analysis**
 
@@ -83,7 +85,11 @@ The analysis utilizes two datasets:
     - Despite platform commission fees, higher menu pricing ensures that delivery margins remain comparable to dine-in sales.
     - While delivery sales have increased, they have not fully offset the decline in direct dine-in sales.
     - Delivery demand peaks between 7 PM - 9 PM but drops sharply after 9 PM, likely due to limited late-night delivery interest.
-    
+
+<img width="346" alt="image" src="https://github.com/user-attachments/assets/88686e5d-df69-4461-bf78-e5d10379a040" /> | <img width="1200" alt="image" src="https://github.com/user-attachments/assets/7aa72dd5-389e-4b09-bf97-d7896ff807c0" />
+---|---|
+
+
 
 ### 3.4 Order Type-Based Menu Performance Analysis
 
@@ -93,6 +99,9 @@ The analysis utilizes two datasets:
 - Combos (12.8%) and Soup & Jeongol (11.0%) perform strongly, reflecting high demand for shared meals and group dining experiences. These categories align with Korean dining culture, where communal eating is the norm.
 - Fried Chicken (10.8%) and Sides (6.8%) contribute smaller revenue shares but are frequently paired with alcohol, making them ideal upsell opportunities, especially for late-night dining.
 - Top-selling items account for 46.01% of total revenue, while the bottom 10 items contribute just 0.006%, indicating the need to streamline the menu by removing or repackaging underperforming dishes.
+
+<img width="462" alt="image" src="https://github.com/user-attachments/assets/f0e663ea-592a-463e-ae2a-8b04c3071422" />
+
 
 ### Top 10 Best-Selling Items
 
@@ -119,6 +128,8 @@ The analysis utilizes two datasets:
 - Chicken-based dishes (e.g., Fried Whole Chicken, Yangnyeom Chicken) rank high in delivery sales, highlighting potential for expanding meal bundles optimized for takeout.
 - Alcohol sales in delivery & pick-up remain minimal due to legal restrictions and consumer behavior, reinforcing the dine-in exclusivity of beverage revenue.
 
+<img width="865" alt="image" src="https://github.com/user-attachments/assets/2a322b2c-6fc3-446c-8c79-dd3e8760be26" /> | <img width="870" alt="image" src="https://github.com/user-attachments/assets/f940f21d-8c80-4ce6-8712-04d774fff0ec" />
+--|--
 
 
 ## **4. 2025 Growth Strategy & Business Recommendations**
@@ -127,33 +138,33 @@ The analysis utilizes two datasets:
 
 Dine-in contributes 90.1% of total revenue, making it the restaurant’s core business driver. However, sales drop significantly on Monday & Tuesday(35% lower than weekends, averaging 32 tickets/day), indicating weak weekday traffic.
 
-📌 To address this, weekday promotions such as "Lunch Specials" for local workers and students and "Happy Hour" (5-7 PM) discounts on appetizers & drinks can attract more customers. Additionally, upselling soju pairings & premium spirits can increase per-table spending.
+- To address this, weekday promotions such as "Lunch Specials" for local workers and students and "Happy Hour" (5-7 PM) discounts on appetizers & drinks can attract more customers. Additionally, upselling soju pairings & premium spirits can increase per-table spending.
 
-💡 Impact: These initiatives can increase weekday ticket volume by 10-15% while also improving AOV through alcohol sales.
+-> Impact: These initiatives can increase weekday ticket volume by 10-15% while also improving AOV through alcohol sales.
 
 ### 4.2 Late-Night Sales Expansion
 
 Although alcohol sales remain stable post-9 PM, food orders decline, and there’s only a slight rebound in ticket count at 9 PM. This suggests demand for late-night social drinking rather than full meals.
 
-📌 Instead of focusing on food promotions, shifting efforts to alcohol sales can maximize revenue. A "Second Round Discount" (15% off the second bottle of soju/beer after 10 PM) and Beer/Soju Tower group deals can increase per-table spending and customer retention.
+- Instead of focusing on food promotions, shifting efforts to alcohol sales can maximize revenue. A "Second Round Discount" (15% off the second bottle of soju/beer after 10 PM) and Beer/Soju Tower group deals can increase per-table spending and customer retention.
 
-💡 Impact: These targeted promotions could lead to a 15-20% increase in late-night revenue while keeping customers engaged for longer periods.
+-> Impact: These targeted promotions could lead to a 15-20% increase in late-night revenue while keeping customers engaged for longer periods.
 
 ### 4.3 Delivery & Takeout Growth
 
 Despite making up only 9.9% of total revenue, delivery orders are profitable due to higher menu pricing that offsets third-party fees. The best-performing delivery items include Kimchi Jeongol and Fried Chicken, indicating that comfort foods drive takeout demand.
 
-📌 To increase order volume, bundling high-margin items into curated meal sets can improve AOV. Options like "K-Comfort Food Set" (Jeongol + Side Dishes) and "Game Night Fried Chicken Combo" can boost sales. Additionally, a 10% discount for first-time direct orders can shift customers from UberEats/DoorDash to in-house ordering.
+- To increase order volume, bundling high-margin items into curated meal sets can improve AOV. Options like "K-Comfort Food Set" (Jeongol + Side Dishes) and "Game Night Fried Chicken Combo" can boost sales. Additionally, a 10% discount for first-time direct orders can shift customers from UberEats/DoorDash to in-house ordering.
 
-💡 Impact: These efforts could increase delivery order volume by 25-30% and improve takeout profitability.
+-> Impact: These efforts could increase delivery order volume by 25-30% and improve takeout profitability.
 
 ### 4.4 Cultural & Marketing Engagement
 
 With growing U.S. interest in Korean culture, food, and social drinking, leveraging K-pop, K-dramas, and social media trends can enhance brand visibility and customer engagement.
 
-📌 Korean culture-themed promotions, such as "K-Pop Night" and "K-Drama Soju Pairing," can attract new customers, while social media challenges (e.g., "🔥 Spicy Dakbal Challenge") can increase organic engagement. Partnering with local influencers can also enhance brand awareness.
+- Korean culture-themed promotions, such as "K-Pop Night" and "K-Drama Soju Pairing," can attract new customers, while social media challenges (e.g., "🔥 Spicy Dakbal Challenge") can increase organic engagement. Partnering with local influencers can also enhance brand awareness.
 
-💡 Impact: These strategies can drive higher foot traffic, increased social media reach, and improved brand recognition among younger audiences.
+-> Impact: These strategies can drive higher foot traffic, increased social media reach, and improved brand recognition among younger audiences.
 
 ## **5. Conclusion**
 
@@ -185,6 +196,5 @@ By implementing these strategies, the restaurant can increase weekday traffic, m
 - Monitor and evaluate the impact of implemented strategies through continuous sales tracking.
 - Refine promotions and pricing dynamically based on customer response and market conditions.
 - Utilize advanced data analytics for forecasting and long-term business planning.
-- 
 
 With a strategic focus on key revenue drivers and customer behavior patterns, the restaurant is well-positioned for sustainable growth in 2025 and beyond.
