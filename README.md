@@ -40,7 +40,9 @@ The analysis utilizes two datasets:
     - Additionally, economic uncertainty and rising living costs contributed to more cautious spending behavior, particularly among young professionals in their 30s, a key customer segment for the restaurant.
     - Although sales slightly recovered after September, they remained below mid-year levels, reflecting lasting impacts from seasonal population shifts and changing consumer behavior.
     - The revenue decline directly correlates with fewer transactions, confirming that lower customer volume was the primary driver.
-        
+
+<img width="1363" alt="image" src="https://github.com/user-attachments/assets/918b019a-2eff-4978-8082-a45a8ea6f652" />
+
         
     
 - **Weekly Trends:**
