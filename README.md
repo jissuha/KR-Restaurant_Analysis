@@ -1,5 +1,17 @@
 # Korean Restaurant Sales Analysis & 2025 Growth Strategy
 <br><br>
+## TL;DR (Summary)
+-  **Problem:** Sales declined by **22.7%** over the last four months, primarily due to reduced dine-in traffic.
+- **Key Insights:**
+  - Dine-in contributes **90.1% of total revenue**, but weekday sales are weak.
+  - Late-night alcohol sales remain steady, but food orders decline after 9 PM.
+  - Delivery sales have grown but still only make up **9.9% of total revenue**.
+- **2025 Growth Strategy:**
+  - **Increase weekday dine-in traffic** via happy hour promotions and premium alcohol upsells.
+  - **Boost late-night revenue** through group alcohol discounts & "Second Round" promotions.
+  - **Expand delivery & takeout** via curated meal bundles and first-time order discounts.
+  - **Leverage K-culture marketing** with K-pop nights, influencer campaigns & social media challenges.
+<br><br>
 ## 1. Business Problem
 
 This project analyzes the performance of a **Korean franchise restaurant in Irvine, CA**, part of a globally recognized brand founded by **renowned chef Baek Jong-won**. With increasing international recognition through **Netflix** and other media, the restaurant has gained attention among Korean food enthusiasts in the U.S.
