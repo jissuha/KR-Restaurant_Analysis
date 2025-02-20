@@ -1,5 +1,4 @@
 # Korean Restaurant Sales Analysis & 2025 Growth Strategy
-<br><br>
 ## TL;DR (Summary)
 -  **Problem:** Sales declined by **22.7%** over the last four months, primarily due to reduced dine-in traffic.
 - **Key Insights:**
@@ -201,10 +200,16 @@ Key takeaways from this analysis include:
 
 By implementing these strategies, the restaurant can increase weekday traffic, maximize late-night sales, expand delivery revenue, and enhance brand visibility in 2025. The integration of SQL-based sales analysis and Tableau-driven visualizations ensures that these insights are backed by data, supporting informed business decisions.
 <br><br>
-## 6. Next Steps:
+## 6. Next Steps: Future Improvements
 
-- Monitor and evaluate the impact of implemented strategies through continuous sales tracking.
-- Refine promotions and pricing dynamically based on customer response and market conditions.
-- Utilize advanced data analytics for forecasting and long-term business planning.
+### 6.1 Expand Data Scope
+   - Include competitor pricing & promotional data for a comparative analysis.
+   - Analyze customer demographics for more targeted marketing.
+### 6.2 Advanced Forecasting
+   - Use time-series forecasting (e.g., ARIMA, Prophet) to predict future sales trends.
+### 6.3 Real-time Analytics
+   - Implement automated dashboards in Tableau for real-time sales monitoring.
+### 6.4 Customer Feedback Analysis
+   - Integrate sentiment analysis on Yelp & Google reviews to identify service improvement areas.
 
 With a strategic focus on key revenue drivers and customer behavior patterns, the restaurant is well-positioned for sustainable growth in 2025 and beyond.
